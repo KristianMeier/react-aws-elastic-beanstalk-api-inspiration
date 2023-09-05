@@ -1,0 +1,47 @@
+[
+  {
+    "uid": "companyUidOne",
+    "cvrNumber": "companyCvrNumberOne",
+    "companyName": "companynameOne",
+    "address": "companyAddressOne",
+    "postNoCity": "companyPostnoCityOne",
+    "companyType": "companyTypeOne",
+    "status": "companyStatusOne"
+  },
+  {
+    "uid": "companyUidTwo",
+    "cvrNumber": "companyCvrNumberTwo",
+    "companyName": "companynameTwo",
+    "address": "companyAddressTwo",
+    "postNoCity": "companyPostnoCityTwo",
+    "companyType": "companyTypeTwo",
+    "status": "companyStatusTwo"
+  },
+  {
+    "uid": "companyUidThree",
+    "cvrNumber": "companyCvrNumberThree",
+    "companyName": "companynameThree",
+    "address": "companyAddressThree",
+    "postNoCity": "companyPostnoCityThree",
+    "companyType": "companyTypeThree",
+    "status": "companyStatusThree"
+  },
+  {
+    "uid": "companyUidFour",
+    "cvrNumber": "companyCvrNumberFour",
+    "companyName": "companynameFour",
+    "address": "companyAddressFour",
+    "postNoCity": "companyPostnoCityFour",
+    "companyType": "companyTypeFour",
+    "status": "companyStatusFour"
+  },
+  {
+    "uid": "companyUidFive",
+    "cvrNumber": "companyCvrNumberFive",
+    "companyName": "companynameFive",
+    "address": "companyAddressFive",
+    "postNoCity": "companyPostnoCityFive",
+    "companyType": "companyTypeFive",
+    "status": "companyStatusFive"
+  }
+]
